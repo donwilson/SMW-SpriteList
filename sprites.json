@@ -1,0 +1,4295 @@
+[
+	{
+		"id": "00",
+		"name": "Green Koopa Troopa without shell",
+		"image": {
+			"name": "Sprite 00.png",
+			"source_url": "https://smwspeedruns.com/images/c/cf/Sprite_00.png",
+			"file": "images/sprites/Sprite_00.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "8D, B9"
+	},
+	{
+		"id": "01",
+		"name": "Red Koopa Troopa without shell",
+		"image": {
+			"name": "Sprite 01.png",
+			"source_url": "https://smwspeedruns.com/images/0/02/Sprite_01.png",
+			"file": "images/sprites/Sprite_01.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "8E"
+	},
+	{
+		"id": "02",
+		"name": "Blue Koopa Troopa without shell",
+		"image": {
+			"name": "Sprite 02.png",
+			"source_url": "https://smwspeedruns.com/images/4/4e/Sprite_02.png",
+			"file": "images/sprites/Sprite_02.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "8F"
+	},
+	{
+		"id": "03",
+		"name": "Yellow Koopa Troopa without shell",
+		"image": {
+			"name": "Sprite 03.png",
+			"source_url": "https://smwspeedruns.com/images/c/cc/Sprite_03.png",
+			"file": "images/sprites/Sprite_03.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "90"
+	},
+	{
+		"id": "04",
+		"name": "Green Koopa Troopa",
+		"image": {
+			"name": "Sprite 04.png",
+			"source_url": "https://smwspeedruns.com/images/4/40/Sprite_04.png",
+			"file": "images/sprites/Sprite_04.png",
+			"width": 16,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "91"
+	},
+	{
+		"id": "05",
+		"name": "Red Koopa Troopa",
+		"image": {
+			"name": "Sprite 05.png",
+			"source_url": "https://smwspeedruns.com/images/e/e7/Sprite_05.png",
+			"file": "images/sprites/Sprite_05.png",
+			"width": 16,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "92"
+	},
+	{
+		"id": "06",
+		"name": "Blue Koopa Troopa",
+		"image": {
+			"name": "Sprite 06.png",
+			"source_url": "https://smwspeedruns.com/images/b/b6/Sprite_06.png",
+			"file": "images/sprites/Sprite_06.png",
+			"width": 16,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "93"
+	},
+	{
+		"id": "07",
+		"name": "Yellow Koopa Troopa",
+		"image": {
+			"name": "Sprite 07.png",
+			"source_url": "https://smwspeedruns.com/images/a/ae/Sprite_07.png",
+			"file": "images/sprites/Sprite_07.png",
+			"width": 16,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "94"
+	},
+	{
+		"id": "08",
+		"name": "Green Koopa Troopa flying left",
+		"image": {
+			"name": "Sprite 08.png",
+			"source_url": "https://smwspeedruns.com/images/0/03/Sprite_08.png",
+			"file": "images/sprites/Sprite_08.png",
+			"width": 17,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "95"
+	},
+	{
+		"id": "09",
+		"name": "Green Koopa Troopa bouncing",
+		"image": {
+			"name": "Sprite 09 2.png",
+			"source_url": "https://smwspeedruns.com/images/6/63/Sprite_09_2.png",
+			"file": "images/sprites/Sprite_09_2.png",
+			"width": 17,
+			"height": 33
+		},
+		"position_extrabit": "High/Low Bouncing (Y&amp;1)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "96"
+	},
+	{
+		"id": "0A",
+		"name": "Red Koopa Troopa flying vertically",
+		"image": {
+			"name": "Sprite 0A.png",
+			"source_url": "https://smwspeedruns.com/images/d/d5/Sprite_0A.png",
+			"file": "images/sprites/Sprite_0A.png",
+			"width": 24,
+			"height": 28
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "97"
+	},
+	{
+		"id": "0B",
+		"name": "Red Koopa Troopa flying horizontally",
+		"image": {
+			"name": "Sprite 0B.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_0B.png",
+			"file": "images/sprites/Sprite_0B.png",
+			"width": 17,
+			"height": 30
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "98"
+	},
+	{
+		"id": "0C",
+		"name": "Yellow Koopa Troopa with wings",
+		"image": {
+			"name": "Sprite 0C.png",
+			"source_url": "https://smwspeedruns.com/images/2/2a/Sprite_0C.png",
+			"file": "images/sprites/Sprite_0C.png",
+			"width": 22,
+			"height": 28
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "99"
+	},
+	{
+		"id": "0D",
+		"name": "Bob-Omb",
+		"image": {
+			"name": "Sprite 0D.png",
+			"source_url": "https://smwspeedruns.com/images/0/0c/Sprite_0D.png",
+			"file": "images/sprites/Sprite_0D.png",
+			"width": 12,
+			"height": 14
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "--"
+	},
+	{
+		"id": "0E",
+		"name": "Keyhole",
+		"image": {
+			"name": "Sprite 0E.png",
+			"source_url": "https://smwspeedruns.com/images/1/19/Sprite_0E.png",
+			"file": "images/sprites/Sprite_0E.png",
+			"width": 8,
+			"height": 13
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "9B"
+	},
+	{
+		"id": "0F",
+		"name": "Goomba",
+		"image": {
+			"name": "Sprite 0F.png",
+			"source_url": "https://smwspeedruns.com/images/5/59/Sprite_0F.png",
+			"file": "images/sprites/Sprite_0F.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "9C"
+	},
+	{
+		"id": "10",
+		"name": "Bouncing Goomba with wings",
+		"image": {
+			"name": "Sprite 10.png",
+			"source_url": "https://smwspeedruns.com/images/4/43/Sprite_10.png",
+			"file": "images/sprites/Sprite_10.png",
+			"width": 32,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "9D"
+	},
+	{
+		"id": "11",
+		"name": "Buzzy Beetle",
+		"image": {
+			"name": "Sprite 11.png",
+			"source_url": "https://smwspeedruns.com/images/f/fd/Sprite_11.png",
+			"file": "images/sprites/Sprite_11.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "9E"
+	},
+	{
+		"id": "12",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite 12.png",
+			"source_url": "https://smwspeedruns.com/images/0/0d/Sprite_12.png",
+			"file": "images/sprites/Sprite_12.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "9F"
+	},
+	{
+		"id": "13",
+		"name": "Spiny",
+		"image": {
+			"name": "Sprite 13.png",
+			"source_url": "https://smwspeedruns.com/images/f/f5/Sprite_13.png",
+			"file": "images/sprites/Sprite_13.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "A0"
+	},
+	{
+		"id": "14",
+		"name": "Spiny falling",
+		"image": {
+			"name": "Sprite 14.png",
+			"source_url": "https://smwspeedruns.com/images/e/ea/Sprite_14.png",
+			"file": "images/sprites/Sprite_14.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "A1"
+	},
+	{
+		"id": "15",
+		"name": "Cheep Cheep swimming horizontally",
+		"image": {
+			"name": "Sprite 15.png",
+			"source_url": "https://smwspeedruns.com/images/4/49/Sprite_15.png",
+			"file": "images/sprites/Sprite_15.png",
+			"width": 16,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "A2"
+	},
+	{
+		"id": "16",
+		"name": "Cheep Cheep swimming vertically",
+		"image": {
+			"name": "Sprite 16.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_16.png",
+			"file": "images/sprites/Sprite_16.png",
+			"width": 23,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "A3"
+	},
+	{
+		"id": "17",
+		"name": "Cheep Cheep flying",
+		"image": {
+			"name": "Sprite 17.png",
+			"source_url": "https://smwspeedruns.com/images/d/d2/Sprite_17.png",
+			"file": "images/sprites/Sprite_17.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "A4"
+	},
+	{
+		"id": "18",
+		"name": "Cheep Cheep jumping to surface",
+		"image": {
+			"name": "Sprite 18.png",
+			"source_url": "https://smwspeedruns.com/images/0/05/Sprite_18.png",
+			"file": "images/sprites/Sprite_18.png",
+			"width": 16,
+			"height": 22
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "A5"
+	},
+	{
+		"id": "19",
+		"name": "Display text from level message 1",
+		"image": {
+			"name": "Sprite 19.png",
+			"source_url": "https://smwspeedruns.com/images/d/de/Sprite_19.png",
+			"file": "images/sprites/Sprite_19.png",
+			"width": 104,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "A6"
+	},
+	{
+		"id": "1A",
+		"name": "Classic Piranha Plant",
+		"image": {
+			"name": "Sprite 1A.png",
+			"source_url": "https://smwspeedruns.com/images/e/e7/Sprite_1A.png",
+			"file": "images/sprites/Sprite_1A.png",
+			"width": 16,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard",
+		"item_box_id": "A7"
+	},
+	{
+		"id": "1B",
+		"name": "Bouncing Football in place.",
+		"image": {
+			"name": "Sprite 1B.png",
+			"source_url": "https://smwspeedruns.com/images/3/3a/Sprite_1B.png",
+			"file": "images/sprites/Sprite_1B.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04, 0E)",
+		"gfx_or": [
+			"04",
+			"0E"
+		],
+		"item_box_id": "A8"
+	},
+	{
+		"id": "1C",
+		"name": "Bullet Bill",
+		"image": {
+			"name": "Sprite 1C.png",
+			"source_url": "https://smwspeedruns.com/images/8/8d/Sprite_1C.png",
+			"file": "images/sprites/Sprite_1C.png",
+			"width": 16,
+			"height": 14
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "A9"
+	},
+	{
+		"id": "1D",
+		"name": "Hopping flame",
+		"image": {
+			"name": "Sprite 1D.png",
+			"source_url": "https://smwspeedruns.com/images/8/87/Sprite_1D.png",
+			"file": "images/sprites/Sprite_1D.png",
+			"width": 11,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "AA"
+	},
+	{
+		"id": "1E",
+		"name": "Lakitu",
+		"image": {
+			"name": "Sprite 1E 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/ca/Sprite_1E_2.png",
+			"file": "images/sprites/Sprite_1E_2.png",
+			"width": 29,
+			"height": 36
+		},
+		"position_extrabit": "Normal/Fishing (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX02/13)",
+		"gfx": [
+			"02",
+			"13"
+		],
+		"item_box_id": "AB"
+	},
+	{
+		"id": "1F",
+		"name": "Magikoopa",
+		"image": {
+			"name": "Sprite 1F.png",
+			"source_url": "https://smwspeedruns.com/images/b/b3/Sprite_1F.png",
+			"file": "images/sprites/Sprite_1F.png",
+			"width": 15,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "AC"
+	},
+	{
+		"id": "20",
+		"name": "Magikoopa's magic",
+		"image": {
+			"name": "Sprite 20.png",
+			"source_url": "https://smwspeedruns.com/images/9/9e/Sprite_20.png",
+			"file": "images/sprites/Sprite_20.png",
+			"width": 24,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "AD"
+	},
+	{
+		"id": "21",
+		"name": "Moving coin",
+		"image": {
+			"name": "Sprite 21.png",
+			"source_url": "https://smwspeedruns.com/images/f/fc/Sprite_21.png",
+			"file": "images/sprites/Sprite_21.png",
+			"width": 10,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "AE"
+	},
+	{
+		"id": "22",
+		"name": "Green vertical net Koopa",
+		"image": {
+			"name": "Sprite 22 2.png",
+			"source_url": "https://smwspeedruns.com/images/0/07/Sprite_22_2.png",
+			"file": "images/sprites/Sprite_22_2.png",
+			"width": 23,
+			"height": 32
+		},
+		"position_extrabit": "Below/Above Net (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "AF"
+	},
+	{
+		"id": "23",
+		"name": "Red vertical net Koopa",
+		"image": {
+			"name": "Sprite 23 2.png",
+			"source_url": "https://smwspeedruns.com/images/9/9e/Sprite_23_2.png",
+			"file": "images/sprites/Sprite_23_2.png",
+			"width": 23,
+			"height": 32
+		},
+		"position_extrabit": "Below/Above Net (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "B0"
+	},
+	{
+		"id": "24",
+		"name": "Green horizontal net Koopa",
+		"image": {
+			"name": "Sprite 24 2.png",
+			"source_url": "https://smwspeedruns.com/images/0/07/Sprite_24_2.png",
+			"file": "images/sprites/Sprite_24_2.png",
+			"width": 16,
+			"height": 39
+		},
+		"position_extrabit": "Below/Above Net (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "B1"
+	},
+	{
+		"id": "25",
+		"name": "Red horizontal net Koopa",
+		"image": {
+			"name": "Sprite 25 2.png",
+			"source_url": "https://smwspeedruns.com/images/7/75/Sprite_25_2.png",
+			"file": "images/sprites/Sprite_25_2.png",
+			"width": 16,
+			"height": 39
+		},
+		"position_extrabit": "Below/Above Net (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "B2"
+	},
+	{
+		"id": "26",
+		"name": "Thwomp",
+		"image": {
+			"name": "Sprite 26.png",
+			"source_url": "https://smwspeedruns.com/images/0/0e/Sprite_26.png",
+			"file": "images/sprites/Sprite_26.png",
+			"width": 24,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "B3"
+	},
+	{
+		"id": "27",
+		"name": "Thwimp",
+		"image": {
+			"name": "Sprite 27.png",
+			"source_url": "https://smwspeedruns.com/images/d/d3/Sprite_27.png",
+			"file": "images/sprites/Sprite_27.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "B4"
+	},
+	{
+		"id": "28",
+		"name": "Big Boo",
+		"image": {
+			"name": "Sprite 28.png",
+			"source_url": "https://smwspeedruns.com/images/4/4f/Sprite_28.png",
+			"file": "images/sprites/Sprite_28.png",
+			"width": 67,
+			"height": 64
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "B5"
+	},
+	{
+		"id": "29",
+		"name": "Koopa Kid",
+		"image": {
+			"name": "Sprite 29 8.png",
+			"source_url": "https://smwspeedruns.com/images/5/5b/Sprite_29_8.png",
+			"file": "images/sprites/Sprite_29_8.png",
+			"width": 64,
+			"height": 16
+		},
+		"position_extrabit": "Which Koopaling (Y=0..6)",
+		"type_gfxpage": "Tileset-specific",
+		"item_box_id": "B6"
+	},
+	{
+		"id": "2A",
+		"name": "Upside-down Piranha Plant",
+		"image": {
+			"name": "Sprite 2A.png",
+			"source_url": "https://smwspeedruns.com/images/3/35/Sprite_2A.png",
+			"file": "images/sprites/Sprite_2A.png",
+			"width": 16,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "B7"
+	},
+	{
+		"id": "2B",
+		"name": "Sumo Brother's lightning",
+		"image": {
+			"name": "Sprite 2B.png",
+			"source_url": "https://smwspeedruns.com/images/5/54/Sprite_2B.png",
+			"file": "images/sprites/Sprite_2B.png",
+			"width": 8,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "B8"
+	},
+	{
+		"id": "2C",
+		"name": "Yoshi egg",
+		"image": {
+			"name": "Sprite 2C 2.png",
+			"source_url": "https://smwspeedruns.com/images/3/3e/Sprite_2C_2.png",
+			"file": "images/sprites/Sprite_2C_2.png",
+			"width": 14,
+			"height": 16
+		},
+		"position_extrabit": "Red/Blue/Yellow/Blue (X&amp;3)",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "--"
+	},
+	{
+		"id": "2D",
+		"name": "Baby Yoshi",
+		"image": {
+			"name": "Sprite 2D.png",
+			"source_url": "https://smwspeedruns.com/images/b/b6/Sprite_2D.png",
+			"file": "images/sprites/Sprite_2D.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard",
+		"item_box_id": "BA"
+	},
+	{
+		"id": "2E",
+		"name": "Spike Top",
+		"image": {
+			"name": "Sprite 2E.png",
+			"source_url": "https://smwspeedruns.com/images/a/a0/Sprite_2E.png",
+			"file": "images/sprites/Sprite_2E.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "BB"
+	},
+	{
+		"id": "2F",
+		"name": "Portable springboard",
+		"image": {
+			"name": "Sprite 2F.png",
+			"source_url": "https://smwspeedruns.com/images/0/08/Sprite_2F.png",
+			"file": "images/sprites/Sprite_2F.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "BC"
+	},
+	{
+		"id": "30",
+		"name": "Dry Bones that throws bones",
+		"image": {
+			"name": "Sprite 30.png",
+			"source_url": "https://smwspeedruns.com/images/5/53/Sprite_30.png",
+			"file": "images/sprites/Sprite_30.png",
+			"width": 24,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12/03)",
+		"gfx": [
+			"12",
+			"03"
+		],
+		"item_box_id": "BD"
+	},
+	{
+		"id": "31",
+		"name": "Bony Beetle",
+		"image": {
+			"name": "Sprite 31.png",
+			"source_url": "https://smwspeedruns.com/images/6/6d/Sprite_31.png",
+			"file": "images/sprites/Sprite_31.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "BE"
+	},
+	{
+		"id": "32",
+		"name": "Dry Bones that stays on ledges",
+		"image": {
+			"name": "Sprite 32.png",
+			"source_url": "https://smwspeedruns.com/images/3/33/Sprite_32.png",
+			"file": "images/sprites/Sprite_32.png",
+			"width": 24,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12, see note)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "BF"
+	},
+	{
+		"id": "33",
+		"name": "Podoboo/vertical fireball",
+		"image": {
+			"name": "Sprite 33.png",
+			"source_url": "https://smwspeedruns.com/images/e/e8/Sprite_33.png",
+			"file": "images/sprites/Sprite_33.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03, 04, or 0E)",
+		"gfx_or": [
+			"03",
+			"04",
+			"0E"
+		],
+		"item_box_id": "C0"
+	},
+	{
+		"id": "34",
+		"name": "Boss fireball",
+		"image": {
+			"name": "Sprite 34.png",
+			"source_url": "https://smwspeedruns.com/images/3/39/Sprite_34.png",
+			"file": "images/sprites/Sprite_34.png",
+			"width": 28,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX24)",
+		"gfx": [
+			"24"
+		],
+		"item_box_id": "C1"
+	},
+	{
+		"id": "35",
+		"name": "Yoshi",
+		"image": {
+			"name": "Sprite 35.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_35.png",
+			"file": "images/sprites/Sprite_35.png",
+			"width": 26,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard",
+		"item_box_id": "C2"
+	},
+	{
+		"id": "36",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite 36.png",
+			"source_url": "https://smwspeedruns.com/images/c/ce/Sprite_36.png",
+			"file": "images/sprites/Sprite_36.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "C3"
+	},
+	{
+		"id": "37",
+		"name": "Boo",
+		"image": {
+			"name": "Sprite 37.png",
+			"source_url": "https://smwspeedruns.com/images/6/6b/Sprite_37.png",
+			"file": "images/sprites/Sprite_37.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "C4"
+	},
+	{
+		"id": "38",
+		"name": "Eerie that moves straight",
+		"image": {
+			"name": "Sprite 38.png",
+			"source_url": "https://smwspeedruns.com/images/7/77/Sprite_38.png",
+			"file": "images/sprites/Sprite_38.png",
+			"width": 16,
+			"height": 22
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06/11)",
+		"gfx": [
+			"06",
+			"11"
+		],
+		"item_box_id": "C5"
+	},
+	{
+		"id": "39",
+		"name": "Eerie that moves in a wave",
+		"image": {
+			"name": "Sprite 39.png",
+			"source_url": "https://smwspeedruns.com/images/c/c5/Sprite_39.png",
+			"file": "images/sprites/Sprite_39.png",
+			"width": 16,
+			"height": 22
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06/11)",
+		"gfx": [
+			"06",
+			"11"
+		],
+		"item_box_id": "C6"
+	},
+	{
+		"id": "3A",
+		"name": "Urchin that moves a fixed distance",
+		"image": {
+			"name": "Sprite 3A 2.png",
+			"source_url": "https://smwspeedruns.com/images/7/7a/Sprite_3A_2.png",
+			"file": "images/sprites/Sprite_3A_2.png",
+			"width": 32,
+			"height": 33
+		},
+		"position_extrabit": "Vertical/Horizontal (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "C7"
+	},
+	{
+		"id": "3B",
+		"name": "Urchin that moves between walls",
+		"image": {
+			"name": "Sprite 3B 2.png",
+			"source_url": "https://smwspeedruns.com/images/2/2f/Sprite_3B_2.png",
+			"file": "images/sprites/Sprite_3B_2.png",
+			"width": 31,
+			"height": 32
+		},
+		"position_extrabit": "Vertical/Horizontal (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "C8"
+	},
+	{
+		"id": "3C",
+		"name": "Urchin that follows walls",
+		"image": {
+			"name": "Sprite 3C 2.png",
+			"source_url": "https://smwspeedruns.com/images/8/85/Sprite_3C_2.png",
+			"file": "images/sprites/Sprite_3C_2.png",
+			"width": 39,
+			"height": 28
+		},
+		"position_extrabit": "Counter-clockwise/Clockwise (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "C9"
+	},
+	{
+		"id": "3D",
+		"name": "Rip Van Fish",
+		"image": {
+			"name": "Sprite 3D.png",
+			"source_url": "https://smwspeedruns.com/images/c/cb/Sprite_3D.png",
+			"file": "images/sprites/Sprite_3D.png",
+			"width": 21,
+			"height": 29
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "CA"
+	},
+	{
+		"id": "3E",
+		"name": "P-switch",
+		"image": {
+			"name": "Sprite 3E 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/ce/Sprite_3E_2.png",
+			"file": "images/sprites/Sprite_3E_2.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "Blue/Silver (X&amp;1)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "CB"
+	},
+	{
+		"id": "3F",
+		"name": "Para-Goomba",
+		"image": {
+			"name": "Sprite 3F.png",
+			"source_url": "https://smwspeedruns.com/images/5/5c/Sprite_3F.png",
+			"file": "images/sprites/Sprite_3F.png",
+			"width": 16,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "CC"
+	},
+	{
+		"id": "40",
+		"name": "Para-Bomb",
+		"image": {
+			"name": "Sprite 40.png",
+			"source_url": "https://smwspeedruns.com/images/2/2c/Sprite_40.png",
+			"file": "images/sprites/Sprite_40.png",
+			"width": 16,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "CD"
+	},
+	{
+		"id": "41",
+		"name": "Dolphin that swims and jumps in one direction",
+		"image": {
+			"name": "Sprite 41.png",
+			"source_url": "https://smwspeedruns.com/images/5/5e/Sprite_41.png",
+			"file": "images/sprites/Sprite_41.png",
+			"width": 40,
+			"height": 22
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "CE"
+	},
+	{
+		"id": "42",
+		"name": "Dolphin that swims and jumps back and forth",
+		"image": {
+			"name": "Sprite 42.png",
+			"source_url": "https://smwspeedruns.com/images/0/0b/Sprite_42.png",
+			"file": "images/sprites/Sprite_42.png",
+			"width": 38,
+			"height": 21
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "CF"
+	},
+	{
+		"id": "43",
+		"name": "Dolphin that swims and jumps up and down",
+		"image": {
+			"name": "Sprite 43.png",
+			"source_url": "https://smwspeedruns.com/images/2/28/Sprite_43.png",
+			"file": "images/sprites/Sprite_43.png",
+			"width": 16,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "D0"
+	},
+	{
+		"id": "44",
+		"name": "Torpedo Ted",
+		"image": {
+			"name": "Sprite 44.png",
+			"source_url": "https://smwspeedruns.com/images/a/a4/Sprite_44.png",
+			"file": "images/sprites/Sprite_44.png",
+			"width": 38,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "D1"
+	},
+	{
+		"id": "45",
+		"name": "Directional coins",
+		"image": {
+			"name": "Sprite 45.png",
+			"source_url": "https://smwspeedruns.com/images/4/4b/Sprite_45.png",
+			"file": "images/sprites/Sprite_45.png",
+			"width": 33,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "D2"
+	},
+	{
+		"id": "46",
+		"name": "Diggin' Chuck",
+		"image": {
+			"name": "Sprite 46.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_46.png",
+			"file": "images/sprites/Sprite_46.png",
+			"width": 30,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13/05)",
+		"gfx": [
+			"13",
+			"05"
+		],
+		"item_box_id": "D3"
+	},
+	{
+		"id": "47",
+		"name": "Swimming/jumping fish",
+		"image": {
+			"name": "Sprite 47.png",
+			"source_url": "https://smwspeedruns.com/images/5/58/Sprite_47.png",
+			"file": "images/sprites/Sprite_47.png",
+			"width": 16,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "D4"
+	},
+	{
+		"id": "48",
+		"name": "Diggin' Chuck's rock",
+		"image": {
+			"name": "Sprite 48.png",
+			"source_url": "https://smwspeedruns.com/images/a/a7/Sprite_48.png",
+			"file": "images/sprites/Sprite_48.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "D5"
+	},
+	{
+		"id": "49",
+		"name": "Growing/shrinking pipe",
+		"image": {
+			"name": "Sprite 49.png",
+			"source_url": "https://smwspeedruns.com/images/e/e1/Sprite_49.png",
+			"file": "images/sprites/Sprite_49.png",
+			"width": 32,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "D6"
+	},
+	{
+		"id": "4A",
+		"name": "Goal Point Question Sphere",
+		"image": {
+			"name": "Sprite 4A.png",
+			"source_url": "https://smwspeedruns.com/images/a/ac/Sprite_4A.png",
+			"file": "images/sprites/Sprite_4A.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "D7"
+	},
+	{
+		"id": "4B",
+		"name": "Pipe-dwelling Lakitu",
+		"image": {
+			"name": "Sprite 4B.png",
+			"source_url": "https://smwspeedruns.com/images/7/70/Sprite_4B.png",
+			"file": "images/sprites/Sprite_4B.png",
+			"width": 16,
+			"height": 30
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "D8"
+	},
+	{
+		"id": "4C",
+		"name": "Exploding block",
+		"image": {
+			"name": "Sprite 4C 4.png",
+			"source_url": "https://smwspeedruns.com/images/6/6b/Sprite_4C_4.png",
+			"file": "images/sprites/Sprite_4C_4.png",
+			"width": 24,
+			"height": 27
+		},
+		"position_extrabit": "Cheep Cheep/Goomba/Shell-less Koopa/Koopa (X&amp;3)",
+		"type_gfxpage": "Standard (GFX00/01) or tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "D9"
+	},
+	{
+		"id": "4D",
+		"name": "Monty Mole, ground-dwelling",
+		"image": {
+			"name": "Sprite 4D 2.png",
+			"source_url": "https://smwspeedruns.com/images/1/13/Sprite_4D_2.png",
+			"file": "images/sprites/Sprite_4D_2.png",
+			"width": 16,
+			"height": 22
+		},
+		"position_extrabit": "Following/Hopping (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "DA"
+	},
+	{
+		"id": "4E",
+		"name": "Monty Mole, ledge-dwelling",
+		"image": {
+			"name": "Sprite 4E 2.png",
+			"source_url": "https://smwspeedruns.com/images/1/1b/Sprite_4E_2.png",
+			"file": "images/sprites/Sprite_4E_2.png",
+			"width": 24,
+			"height": 25
+		},
+		"position_extrabit": "Following/Hopping (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "DB"
+	},
+	{
+		"id": "4F",
+		"name": "Jumping Piranha Plant",
+		"image": {
+			"name": "Sprite 4F.png",
+			"source_url": "https://smwspeedruns.com/images/1/1c/Sprite_4F.png",
+			"file": "images/sprites/Sprite_4F.png",
+			"width": 16,
+			"height": 20
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "DC"
+	},
+	{
+		"id": "50",
+		"name": "Jumping Piranha Plant that spits fireballs",
+		"image": {
+			"name": "Sprite 50.png",
+			"source_url": "https://smwspeedruns.com/images/b/be/Sprite_50.png",
+			"file": "images/sprites/Sprite_50.png",
+			"width": 18,
+			"height": 29
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "DD"
+	},
+	{
+		"id": "51",
+		"name": "Ninji",
+		"image": {
+			"name": "Sprite 51.png",
+			"source_url": "https://smwspeedruns.com/images/8/82/Sprite_51.png",
+			"file": "images/sprites/Sprite_51.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0E)",
+		"gfx": [
+			"0E"
+		],
+		"item_box_id": "DE"
+	},
+	{
+		"id": "52",
+		"name": "Moving hole in ghost house ledge",
+		"image": {
+			"name": "Sprite 52.png",
+			"source_url": "https://smwspeedruns.com/images/c/cd/Sprite_52.png",
+			"file": "images/sprites/Sprite_52.png",
+			"width": 48,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "DF"
+	},
+	{
+		"id": "53",
+		"name": "Throw block sprite",
+		"image": {
+			"name": "Sprite 53.png",
+			"source_url": "https://smwspeedruns.com/images/d/d0/Sprite_53.png",
+			"file": "images/sprites/Sprite_53.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "E0"
+	},
+	{
+		"id": "54",
+		"name": "Revolving door for climbing net",
+		"image": {
+			"name": "Sprite 54.png",
+			"source_url": "https://smwspeedruns.com/images/0/0f/Sprite_54.png",
+			"file": "images/sprites/Sprite_54.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "E1"
+	},
+	{
+		"id": "55",
+		"name": "Checkerboard platform, horizontal",
+		"image": {
+			"name": "Sprite 55.png",
+			"source_url": "https://smwspeedruns.com/images/c/ca/Sprite_55.png",
+			"file": "images/sprites/Sprite_55.png",
+			"width": 48,
+			"height": 17
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "E2"
+	},
+	{
+		"id": "56",
+		"name": "Flying rock platform, horizontal",
+		"image": {
+			"name": "Sprite 56.png",
+			"source_url": "https://smwspeedruns.com/images/9/98/Sprite_56.png",
+			"file": "images/sprites/Sprite_56.png",
+			"width": 48,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "E3"
+	},
+	{
+		"id": "57",
+		"name": "Checkerboard platform, vertical",
+		"image": {
+			"name": "Sprite 57.png",
+			"source_url": "https://smwspeedruns.com/images/4/45/Sprite_57.png",
+			"file": "images/sprites/Sprite_57.png",
+			"width": 48,
+			"height": 21
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "E4"
+	},
+	{
+		"id": "58",
+		"name": "Flying rock platform, vertical",
+		"image": {
+			"name": "Sprite 58.png",
+			"source_url": "https://smwspeedruns.com/images/3/34/Sprite_58.png",
+			"file": "images/sprites/Sprite_58.png",
+			"width": 48,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "E5"
+	},
+	{
+		"id": "59",
+		"name": "Turn block bridge, horizontal and vertical",
+		"image": {
+			"name": "Sprite 59.png",
+			"source_url": "https://smwspeedruns.com/images/9/9c/Sprite_59.png",
+			"file": "images/sprites/Sprite_59.png",
+			"width": 16,
+			"height": 36
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "E6"
+	},
+	{
+		"id": "5A",
+		"name": "Turn block bridge, horizontal",
+		"image": {
+			"name": "Sprite 5A.png",
+			"source_url": "https://smwspeedruns.com/images/e/e3/Sprite_5A.png",
+			"file": "images/sprites/Sprite_5A.png",
+			"width": 36,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "E7"
+	},
+	{
+		"id": "5B",
+		"name": "Floating brown platform",
+		"image": {
+			"name": "Sprite 5B.png",
+			"source_url": "https://smwspeedruns.com/images/e/e2/Sprite_5B.png",
+			"file": "images/sprites/Sprite_5B.png",
+			"width": 48,
+			"height": 11
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12, 13)",
+		"gfx_or": [
+			"12",
+			"13"
+		],
+		"item_box_id": "E8"
+	},
+	{
+		"id": "5C",
+		"name": "Floating checkerboard platform",
+		"image": {
+			"name": "Sprite 5C.png",
+			"source_url": "https://smwspeedruns.com/images/b/b1/Sprite_5C.png",
+			"file": "images/sprites/Sprite_5C.png",
+			"width": 48,
+			"height": 11
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "E9"
+	},
+	{
+		"id": "5D",
+		"name": "Small orange floating platform",
+		"image": {
+			"name": "Sprite 5D.png",
+			"source_url": "https://smwspeedruns.com/images/2/2c/Sprite_5D.png",
+			"file": "images/sprites/Sprite_5D.png",
+			"width": 48,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "EA"
+	},
+	{
+		"id": "5E",
+		"name": "Large orange floating platform",
+		"image": {
+			"name": "Sprite 5E.png",
+			"source_url": "https://smwspeedruns.com/images/2/2a/Sprite_5E.png",
+			"file": "images/sprites/Sprite_5E.png",
+			"width": 64,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "EB"
+	},
+	{
+		"id": "5F",
+		"name": "Swinging brown platform",
+		"image": {
+			"name": "Sprite 5F.png",
+			"source_url": "https://smwspeedruns.com/images/4/47/Sprite_5F.png",
+			"file": "images/sprites/Sprite_5F.png",
+			"width": 48,
+			"height": 36
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "EC"
+	},
+	{
+		"id": "60",
+		"name": "Flat switch palace switch",
+		"image": {
+			"name": "Sprite 60.png",
+			"source_url": "https://smwspeedruns.com/images/c/c6/Sprite_60.png",
+			"file": "images/sprites/Sprite_60.png",
+			"width": 32,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0D)",
+		"gfx": [
+			"0D"
+		],
+		"item_box_id": "ED"
+	},
+	{
+		"id": "61",
+		"name": "Floating skulls",
+		"image": {
+			"name": "Sprite 61.png",
+			"source_url": "https://smwspeedruns.com/images/7/7d/Sprite_61.png",
+			"file": "images/sprites/Sprite_61.png",
+			"width": 64,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "EE"
+	},
+	{
+		"id": "62",
+		"name": "Brown line-guided platform",
+		"image": {
+			"name": "Sprite 62.png",
+			"source_url": "https://smwspeedruns.com/images/a/aa/Sprite_62.png",
+			"file": "images/sprites/Sprite_62.png",
+			"width": 48,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12, 13)",
+		"gfx": [
+			"12",
+			"13"
+		],
+		"item_box_id": "EF"
+	},
+	{
+		"id": "63",
+		"name": "Brown/checkered line-guided platform",
+		"image": {
+			"name": "Sprite 63 2.png",
+			"source_url": "https://smwspeedruns.com/images/d/d5/Sprite_63_2.png",
+			"file": "images/sprites/Sprite_63_2.png",
+			"width": 48,
+			"height": 23
+		},
+		"position_extrabit": "Brown/Checkered (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12, 13 or 05)",
+		"gfx_or": [
+			"12",
+			"13",
+			"05"
+		],
+		"item_box_id": "F0"
+	},
+	{
+		"id": "64",
+		"name": "Line-guided rope mechanism",
+		"image": {
+			"name": "Sprite 64 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/c1/Sprite_64_2.png",
+			"file": "images/sprites/Sprite_64_2.png",
+			"width": 14,
+			"height": 48
+		},
+		"position_extrabit": "Sprite Memory, Long/Short (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "F1"
+	},
+	{
+		"id": "65",
+		"name": "Chainsaw (line-guided)",
+		"image": {
+			"name": "Sprite 65 2.png",
+			"source_url": "https://smwspeedruns.com/images/5/54/Sprite_65_2.png",
+			"file": "images/sprites/Sprite_65_2.png",
+			"width": 22,
+			"height": 43
+		},
+		"position_extrabit": "Right &amp; Down/Left &amp; Up (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "F2"
+	},
+	{
+		"id": "66",
+		"name": "Upside-down chainsaw (line-guided)",
+		"image": {
+			"name": "Sprite 66 2.png",
+			"source_url": "https://smwspeedruns.com/images/d/d7/Sprite_66_2.png",
+			"file": "images/sprites/Sprite_66_2.png",
+			"width": 22,
+			"height": 48
+		},
+		"position_extrabit": "Right &amp; Down/Left &amp; Up (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "F3"
+	},
+	{
+		"id": "67",
+		"name": "Grinder, line-guided",
+		"image": {
+			"name": "Sprite 67 2.png",
+			"source_url": "https://smwspeedruns.com/images/5/58/Sprite_67_2.png",
+			"file": "images/sprites/Sprite_67_2.png",
+			"width": 42,
+			"height": 32
+		},
+		"position_extrabit": "Right &amp; Down/Left &amp; Up (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "F4"
+	},
+	{
+		"id": "68",
+		"name": "Fuzzy, line-guided",
+		"image": {
+			"name": "Sprite 68 2.png",
+			"source_url": "https://smwspeedruns.com/images/5/54/Sprite_68_2.png",
+			"file": "images/sprites/Sprite_68_2.png",
+			"width": 26,
+			"height": 18
+		},
+		"position_extrabit": "Right &amp; Down/Left &amp; Up (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "F5"
+	},
+	{
+		"id": "69",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite 69.png",
+			"source_url": "https://smwspeedruns.com/images/5/56/Sprite_69.png",
+			"file": "images/sprites/Sprite_69.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "F6"
+	},
+	{
+		"id": "6A",
+		"name": "Coin game cloud",
+		"image": {
+			"name": "Sprite 6A.png",
+			"source_url": "https://smwspeedruns.com/images/e/e4/Sprite_6A.png",
+			"file": "images/sprites/Sprite_6A.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "F7"
+	},
+	{
+		"id": "6B",
+		"name": "Wall springboard (left wall)",
+		"image": {
+			"name": "Sprite 6B.png",
+			"source_url": "https://smwspeedruns.com/images/f/f2/Sprite_6B.png",
+			"file": "images/sprites/Sprite_6B.png",
+			"width": 40,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "F8"
+	},
+	{
+		"id": "6C",
+		"name": "Wall springboard (right wall)",
+		"image": {
+			"name": "Sprite 6C.png",
+			"source_url": "https://smwspeedruns.com/images/5/55/Sprite_6C.png",
+			"file": "images/sprites/Sprite_6C.png",
+			"width": 40,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "F9"
+	},
+	{
+		"id": "6D",
+		"name": "Invisible solid block",
+		"image": {
+			"name": "Sprite 6D.png",
+			"source_url": "https://smwspeedruns.com/images/4/46/Sprite_6D.png",
+			"file": "images/sprites/Sprite_6D.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (no GFX)",
+		"item_box_id": "FA"
+	},
+	{
+		"id": "6E",
+		"name": "Dino-Rhino",
+		"image": {
+			"name": "Sprite 6E.png",
+			"source_url": "https://smwspeedruns.com/images/e/e2/Sprite_6E.png",
+			"file": "images/sprites/Sprite_6E.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX23)",
+		"gfx": [
+			"23"
+		],
+		"item_box_id": "FB"
+	},
+	{
+		"id": "6F",
+		"name": "Dino-Torch",
+		"image": {
+			"name": "Sprite 6F.png",
+			"source_url": "https://smwspeedruns.com/images/c/ce/Sprite_6F.png",
+			"file": "images/sprites/Sprite_6F.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX23)",
+		"gfx": [
+			"23"
+		],
+		"item_box_id": "FC"
+	},
+	{
+		"id": "70",
+		"name": "Pokey",
+		"image": {
+			"name": "Sprite 70.png",
+			"source_url": "https://smwspeedruns.com/images/f/fa/Sprite_70.png",
+			"file": "images/sprites/Sprite_70.png",
+			"width": 17,
+			"height": 48
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "FD"
+	},
+	{
+		"id": "71",
+		"name": "Super Koopa with red cape",
+		"image": {
+			"name": "Sprite 71.png",
+			"source_url": "https://smwspeedruns.com/images/9/9a/Sprite_71.png",
+			"file": "images/sprites/Sprite_71.png",
+			"width": 23,
+			"height": 13
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "FE"
+	},
+	{
+		"id": "72",
+		"name": "Super Koopa with yellow cape",
+		"image": {
+			"name": "Sprite 72.png",
+			"source_url": "https://smwspeedruns.com/images/9/90/Sprite_72.png",
+			"file": "images/sprites/Sprite_72.png",
+			"width": 23,
+			"height": 13
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "FF"
+	},
+	{
+		"id": "73",
+		"name": "Super Koopa on the ground",
+		"image": {
+			"name": "Sprite 73 2.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_73_2.png",
+			"file": "images/sprites/Sprite_73_2.png",
+			"width": 22,
+			"height": 16
+		},
+		"position_extrabit": "Flashing/Yellow (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "--"
+	},
+	{
+		"id": "74",
+		"name": "Mushroom",
+		"image": {
+			"name": "Sprite 74.png",
+			"source_url": "https://smwspeedruns.com/images/1/15/Sprite_74.png",
+			"file": "images/sprites/Sprite_74.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "1"
+	},
+	{
+		"id": "75",
+		"name": "Flower",
+		"image": {
+			"name": "Sprite 75.png",
+			"source_url": "https://smwspeedruns.com/images/8/8c/Sprite_75.png",
+			"file": "images/sprites/Sprite_75.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "2"
+	},
+	{
+		"id": "76",
+		"name": "Star",
+		"image": {
+			"name": "Sprite 76.png",
+			"source_url": "https://smwspeedruns.com/images/c/cd/Sprite_76.png",
+			"file": "images/sprites/Sprite_76.png",
+			"width": 15,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "3"
+	},
+	{
+		"id": "77",
+		"name": "Feather",
+		"image": {
+			"name": "Sprite 77.png",
+			"source_url": "https://smwspeedruns.com/images/9/9a/Sprite_77.png",
+			"file": "images/sprites/Sprite_77.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "4"
+	},
+	{
+		"id": "78",
+		"name": "1-Up mushroom",
+		"image": {
+			"name": "Sprite 78.png",
+			"source_url": "https://smwspeedruns.com/images/4/4c/Sprite_78.png",
+			"file": "images/sprites/Sprite_78.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "5"
+	},
+	{
+		"id": "79",
+		"name": "Growing vine",
+		"image": {
+			"name": "Sprite 79.png",
+			"source_url": "https://smwspeedruns.com/images/1/1f/Sprite_79.png",
+			"file": "images/sprites/Sprite_79.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "6"
+	},
+	{
+		"id": "7A",
+		"name": "Firework",
+		"image": {
+			"name": "Sprite 7A.png",
+			"source_url": "https://smwspeedruns.com/images/7/7f/Sprite_7A.png",
+			"file": "images/sprites/Sprite_7A.png",
+			"width": 5,
+			"height": 7
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX24/22)",
+		"gfx": [
+			"24",
+			"22"
+		],
+		"item_box_id": "7"
+	},
+	{
+		"id": "7B",
+		"name": "Goal tape",
+		"image": {
+			"name": "Sprite 7B 2.png",
+			"source_url": "https://smwspeedruns.com/images/5/57/Sprite_7B_2.png",
+			"file": "images/sprites/Sprite_7B_2.png",
+			"width": 24,
+			"height": 14
+		},
+		"position_extrabit": "Normal/Secret (Extra Bit)",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "8"
+	},
+	{
+		"id": "7C",
+		"name": "Peach (after Bowser fight)",
+		"image": {
+			"name": "Sprite 7C.png",
+			"source_url": "https://smwspeedruns.com/images/e/eb/Sprite_7C.png",
+			"file": "images/sprites/Sprite_7C.png",
+			"width": 22,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX22)",
+		"gfx": [
+			"22"
+		],
+		"item_box_id": "9"
+	},
+	{
+		"id": "7D",
+		"name": "P-Balloon",
+		"image": {
+			"name": "Sprite 7D.png",
+			"source_url": "https://smwspeedruns.com/images/b/b5/Sprite_7D.png",
+			"file": "images/sprites/Sprite_7D.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02, 0E)",
+		"gfx": [
+			"02",
+			"0E"
+		],
+		"item_box_id": "0A"
+	},
+	{
+		"id": "7E",
+		"name": "Flying red coin / Yoshi Wings",
+		"image": {
+			"name": "Sprite 7E 2.png",
+			"source_url": "https://smwspeedruns.com/images/8/89/Sprite_7E_2.png",
+			"file": "images/sprites/Sprite_7E_2.png",
+			"width": 32,
+			"height": 16
+		},
+		"position_extrabit": "Coin/Wings (Extra Bit)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "0B"
+	},
+	{
+		"id": "7F",
+		"name": "Flying golden mushroom",
+		"image": {
+			"name": "Sprite 7F.png",
+			"source_url": "https://smwspeedruns.com/images/0/0e/Sprite_7F.png",
+			"file": "images/sprites/Sprite_7F.png",
+			"width": 32,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "0C"
+	},
+	{
+		"id": "80",
+		"name": "Key",
+		"image": {
+			"name": "Sprite 80.png",
+			"source_url": "https://smwspeedruns.com/images/0/01/Sprite_80.png",
+			"file": "images/sprites/Sprite_80.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "0D"
+	},
+	{
+		"id": "81",
+		"name": "Changing item",
+		"image": {
+			"name": "Sprite 81.png",
+			"source_url": "https://smwspeedruns.com/images/c/cd/Sprite_81.png",
+			"file": "images/sprites/Sprite_81.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "0E"
+	},
+	{
+		"id": "82",
+		"name": "Bonus game sprite",
+		"image": {
+			"name": "Sprite 82.png",
+			"source_url": "https://smwspeedruns.com/images/7/7c/Sprite_82.png",
+			"file": "images/sprites/Sprite_82.png",
+			"width": 50,
+			"height": 50
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "0F"
+	},
+	{
+		"id": "83",
+		"name": "Flying question block that flies left",
+		"image": {
+			"name": "Sprite 83 4.png",
+			"source_url": "https://smwspeedruns.com/images/c/c7/Sprite_83_4.png",
+			"file": "images/sprites/Sprite_83_4.png",
+			"width": 32,
+			"height": 28
+		},
+		"position_extrabit": "Coin/Flower/Feather/1-up (X&amp;3)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "10"
+	},
+	{
+		"id": "84",
+		"name": "Flying question block that flies back and forth",
+		"image": {
+			"name": "Sprite 84 4.png",
+			"source_url": "https://smwspeedruns.com/images/9/9b/Sprite_84_4.png",
+			"file": "images/sprites/Sprite_84_4.png",
+			"width": 32,
+			"height": 28
+		},
+		"position_extrabit": "Coin/Flower/Feather/1-up (X&amp;3)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "11"
+	},
+	{
+		"id": "85",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite 85.png",
+			"source_url": "https://smwspeedruns.com/images/4/49/Sprite_85.png",
+			"file": "images/sprites/Sprite_85.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "12"
+	},
+	{
+		"id": "86",
+		"name": "Wiggler",
+		"image": {
+			"name": "Sprite 86.png",
+			"source_url": "https://smwspeedruns.com/images/a/a3/Sprite_86.png",
+			"file": "images/sprites/Sprite_86.png",
+			"width": 48,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "13"
+	},
+	{
+		"id": "87",
+		"name": "Lakitu's cloud",
+		"image": {
+			"name": "Sprite 87.png",
+			"source_url": "https://smwspeedruns.com/images/6/6c/Sprite_87.png",
+			"file": "images/sprites/Sprite_87.png",
+			"width": 26,
+			"height": 20
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "14"
+	},
+	{
+		"id": "88",
+		"name": "Winged cage (unused)",
+		"image": {
+			"name": "Sprite 88.png",
+			"source_url": "https://smwspeedruns.com/images/d/da/Sprite_88.png",
+			"file": "images/sprites/Sprite_88.png",
+			"width": 36,
+			"height": 41
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "UNKNOWN",
+		"item_box_id": "15"
+	},
+	{
+		"id": "89",
+		"name": "Layer 3 Smash",
+		"image": {
+			"name": "Sprite 89.png",
+			"source_url": "https://smwspeedruns.com/images/6/6b/Sprite_89.png",
+			"file": "images/sprites/Sprite_89.png",
+			"width": 56,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "16"
+	},
+	{
+		"id": "8A",
+		"name": "Yoshi's House bird",
+		"image": {
+			"name": "Sprite 8A.png",
+			"source_url": "https://smwspeedruns.com/images/c/c4/Sprite_8A.png",
+			"file": "images/sprites/Sprite_8A.png",
+			"width": 8,
+			"height": 7
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0F)",
+		"gfx": [
+			"0F"
+		],
+		"item_box_id": "17"
+	},
+	{
+		"id": "8B",
+		"name": "Puff of smoke from Yoshi's House",
+		"image": {
+			"name": "Sprite 8B.png",
+			"source_url": "https://smwspeedruns.com/images/d/d9/Sprite_8B.png",
+			"file": "images/sprites/Sprite_8B.png",
+			"width": 28,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0F)",
+		"gfx": [
+			"0F"
+		],
+		"item_box_id": "18"
+	},
+	{
+		"id": "8C",
+		"name": "Side exit enabler",
+		"image": {
+			"name": "Sprite 8C 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/cb/Sprite_8C_2.png",
+			"file": "images/sprites/Sprite_8C_2.png",
+			"width": 72,
+			"height": 16
+		},
+		"position_extrabit": "Fireplace/No Fire (X&amp;1)",
+		"type_gfxpage": "Standard or tileset-specific (GFX0F)",
+		"gfx": [
+			"0F"
+		],
+		"item_box_id": "19"
+	},
+	{
+		"id": "8D",
+		"name": "Ghost house exit sign and door",
+		"image": {
+			"name": "Sprite 8D.png",
+			"source_url": "https://smwspeedruns.com/images/1/14/Sprite_8D.png",
+			"file": "images/sprites/Sprite_8D.png",
+			"width": 32,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0F)",
+		"gfx": [
+			"0F"
+		],
+		"item_box_id": "1A"
+	},
+	{
+		"id": "8E",
+		"name": "Invisible \"Warp Hole\"",
+		"image": {
+			"name": "Sprite 8E.png",
+			"source_url": "https://smwspeedruns.com/images/6/68/Sprite_8E.png",
+			"file": "images/sprites/Sprite_8E.png",
+			"width": 8,
+			"height": 56
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (no GFX)",
+		"item_box_id": "1B"
+	},
+	{
+		"id": "8F",
+		"name": "Scale platforms",
+		"image": {
+			"name": "Sprite 8F 2.png",
+			"source_url": "https://smwspeedruns.com/images/9/9e/Sprite_8F_2.png",
+			"file": "images/sprites/Sprite_8F_2.png",
+			"width": 32,
+			"height": 22
+		},
+		"position_extrabit": "Close/Far (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "1C"
+	},
+	{
+		"id": "90",
+		"name": "Large green gas bubble",
+		"image": {
+			"name": "Sprite 90.png",
+			"source_url": "https://smwspeedruns.com/images/c/c5/Sprite_90.png",
+			"file": "images/sprites/Sprite_90.png",
+			"width": 58,
+			"height": 64
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "1D"
+	},
+	{
+		"id": "91",
+		"name": "Chargin' Chuck",
+		"image": {
+			"name": "Sprite 91.png",
+			"source_url": "https://smwspeedruns.com/images/0/0b/Sprite_91.png",
+			"file": "images/sprites/Sprite_91.png",
+			"width": 26,
+			"height": 27
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "1E"
+	},
+	{
+		"id": "92",
+		"name": "Splittin' Chuck",
+		"image": {
+			"name": "Sprite 92.png",
+			"source_url": "https://smwspeedruns.com/images/6/6d/Sprite_92.png",
+			"file": "images/sprites/Sprite_92.png",
+			"width": 24,
+			"height": 19
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "1F"
+	},
+	{
+		"id": "93",
+		"name": "Bouncin' Chuck",
+		"image": {
+			"name": "Sprite 93.png",
+			"source_url": "https://smwspeedruns.com/images/a/a9/Sprite_93.png",
+			"file": "images/sprites/Sprite_93.png",
+			"width": 26,
+			"height": 27
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "20"
+	},
+	{
+		"id": "94",
+		"name": "Whistlin' Chuck",
+		"image": {
+			"name": "Sprite 94 2.png",
+			"source_url": "https://smwspeedruns.com/images/e/e9/Sprite_94_2.png",
+			"file": "images/sprites/Sprite_94_2.png",
+			"width": 26,
+			"height": 29
+		},
+		"position_extrabit": "Super Koopas/Rip Van Fish (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX13/06, 13/09)",
+		"gfx_or": [
+			[
+				"13",
+				"06"
+			],
+			[
+				"13",
+				"09"
+			]
+		],
+		"item_box_id": "21"
+	},
+	{
+		"id": "95",
+		"name": "Clappin' Chuck",
+		"image": {
+			"name": "Sprite 95.png",
+			"source_url": "https://smwspeedruns.com/images/3/30/Sprite_95.png",
+			"file": "images/sprites/Sprite_95.png",
+			"width": 30,
+			"height": 29
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "22"
+	},
+	{
+		"id": "96",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite 96.png",
+			"source_url": "https://smwspeedruns.com/images/5/59/Sprite_96.png",
+			"file": "images/sprites/Sprite_96.png",
+			"width": 26,
+			"height": 35
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "23"
+	},
+	{
+		"id": "97",
+		"name": "Puntin' Chuck",
+		"image": {
+			"name": "Sprite 97.png",
+			"source_url": "https://smwspeedruns.com/images/4/4d/Sprite_97.png",
+			"file": "images/sprites/Sprite_97.png",
+			"width": 24,
+			"height": 25
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13/04, 13/0E)",
+		"gfx_or": [
+			[
+				"13",
+				"04"
+			],
+			[
+				"13",
+				"0E"
+			]
+		],
+		"item_box_id": "24"
+	},
+	{
+		"id": "98",
+		"name": "Pitchin' Chuck",
+		"image": {
+			"name": "Sprite 98 4.png",
+			"source_url": "https://smwspeedruns.com/images/a/a5/Sprite_98_4.png",
+			"file": "images/sprites/Sprite_98_4.png",
+			"width": 30,
+			"height": 28
+		},
+		"position_extrabit": "2/4/6/5 Balls (X&amp;3)",
+		"type_gfxpage": "Tileset-specific (GFX13/09, 13/0E)",
+		"gfx_or": [
+			[
+				"13",
+				"09"
+			],
+			[
+				"13",
+				"0E"
+			]
+		],
+		"item_box_id": "25"
+	},
+	{
+		"id": "99",
+		"name": "Volcano Lotus",
+		"image": {
+			"name": "Sprite 99.png",
+			"source_url": "https://smwspeedruns.com/images/9/93/Sprite_99.png",
+			"file": "images/sprites/Sprite_99.png",
+			"width": 32,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "26"
+	},
+	{
+		"id": "9A",
+		"name": "Sumo Brother",
+		"image": {
+			"name": "Sprite 9A.png",
+			"source_url": "https://smwspeedruns.com/images/c/c3/Sprite_9A.png",
+			"file": "images/sprites/Sprite_9A.png",
+			"width": 27,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "27"
+	},
+	{
+		"id": "9B",
+		"name": "Amazing Flying Hammer Brother",
+		"image": {
+			"name": "Sprite 9B.png",
+			"source_url": "https://smwspeedruns.com/images/2/2b/Sprite_9B.png",
+			"file": "images/sprites/Sprite_9B.png",
+			"width": 31,
+			"height": 22
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "28"
+	},
+	{
+		"id": "9C",
+		"name": "Flying gray blocks for Hammer Brother",
+		"image": {
+			"name": "Sprite 9C.png",
+			"source_url": "https://smwspeedruns.com/images/9/9c/Sprite_9C.png",
+			"file": "images/sprites/Sprite_9C.png",
+			"width": 54,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "29"
+	},
+	{
+		"id": "9D",
+		"name": "Sprite in a bubble",
+		"image": {
+			"name": "Sprite 9D 4.png",
+			"source_url": "https://smwspeedruns.com/images/8/85/Sprite_9D_4.png",
+			"file": "images/sprites/Sprite_9D_4.png",
+			"width": 30,
+			"height": 30
+		},
+		"position_extrabit": "Goomba/Bob-omb/Cheep Cheep/Mushroom (X&amp;3)",
+		"type_gfxpage": "Tileset-specific (GFX02 and sometimes 13)",
+		"gfx_or": [
+			"02",
+			"13"
+		],
+		"item_box_id": "2A"
+	},
+	{
+		"id": "9E",
+		"name": "Ball 'n' Chain",
+		"image": {
+			"name": "Sprite 9E 2.png",
+			"source_url": "https://smwspeedruns.com/images/b/b7/Sprite_9E_2.png",
+			"file": "images/sprites/Sprite_9E_2.png",
+			"width": 32,
+			"height": 39
+		},
+		"position_extrabit": "Clockwise/Counter-clockwise (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "2B"
+	},
+	{
+		"id": "9F",
+		"name": "Banzai Bill",
+		"image": {
+			"name": "Sprite 9F.png",
+			"source_url": "https://smwspeedruns.com/images/6/65/Sprite_9F.png",
+			"file": "images/sprites/Sprite_9F.png",
+			"width": 64,
+			"height": 64
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "2C"
+	},
+	{
+		"id": "A0",
+		"name": "Bowser battle activator",
+		"image": {
+			"name": "Sprite A0.png",
+			"source_url": "https://smwspeedruns.com/images/f/f8/Sprite_A0.png",
+			"file": "images/sprites/Sprite_A0.png",
+			"width": 96,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific",
+		"item_box_id": "2D"
+	},
+	{
+		"id": "A1",
+		"name": "Bowser's \"bowling ball\"",
+		"image": {
+			"name": "Sprite A1.png",
+			"source_url": "https://smwspeedruns.com/images/b/b7/Sprite_A1.png",
+			"file": "images/sprites/Sprite_A1.png",
+			"width": 48,
+			"height": 48
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX24)",
+		"gfx": [
+			"24"
+		],
+		"item_box_id": "2E"
+	},
+	{
+		"id": "A2",
+		"name": "Mecha-Koopa",
+		"image": {
+			"name": "Sprite A2.png",
+			"source_url": "https://smwspeedruns.com/images/6/62/Sprite_A2.png",
+			"file": "images/sprites/Sprite_A2.png",
+			"width": 30,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX24)",
+		"gfx": [
+			"24"
+		],
+		"item_box_id": "2F"
+	},
+	{
+		"id": "A3",
+		"name": "Rotating gray platform",
+		"image": {
+			"name": "Sprite A3 2.png",
+			"source_url": "https://smwspeedruns.com/images/a/ac/Sprite_A3_2.png",
+			"file": "images/sprites/Sprite_A3_2.png",
+			"width": 48,
+			"height": 40
+		},
+		"position_extrabit": "Counter-clockwise/Clockwise (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12/05, 13/05)",
+		"gfx_or": [
+			[
+				"12",
+				"05"
+			],
+			[
+				"13",
+				"05"
+			]
+		],
+		"item_box_id": "30"
+	},
+	{
+		"id": "A4",
+		"name": "Floating spike ball",
+		"image": {
+			"name": "Sprite A4 2.png",
+			"source_url": "https://smwspeedruns.com/images/4/45/Sprite_A4_2.png",
+			"file": "images/sprites/Sprite_A4_2.png",
+			"width": 26,
+			"height": 26
+		},
+		"position_extrabit": "Slow/Fast (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "31"
+	},
+	{
+		"id": "A5",
+		"name": "Wall-following Sparky/Fuzzy",
+		"image": {
+			"name": "Sprite A5 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/cb/Sprite_A5_2.png",
+			"file": "images/sprites/Sprite_A5_2.png",
+			"width": 16,
+			"height": 21
+		},
+		"position_extrabit": "Left/Right (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05 or 12)",
+		"gfx": [
+			"05",
+			"12"
+		],
+		"item_box_id": "32"
+	},
+	{
+		"id": "A6",
+		"name": "Hothead",
+		"image": {
+			"name": "Sprite A6 2.png",
+			"source_url": "https://smwspeedruns.com/images/1/1f/Sprite_A6_2.png",
+			"file": "images/sprites/Sprite_A6_2.png",
+			"width": 33,
+			"height": 35
+		},
+		"position_extrabit": "Left/Right (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "33"
+	},
+	{
+		"id": "A7",
+		"name": "Iggy's ball projectile",
+		"image": {
+			"name": "Sprite A7.png",
+			"source_url": "https://smwspeedruns.com/images/e/e4/Sprite_A7.png",
+			"file": "images/sprites/Sprite_A7.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific",
+		"item_box_id": "34"
+	},
+	{
+		"id": "A8",
+		"name": "Blargg",
+		"image": {
+			"name": "Sprite A8.png",
+			"source_url": "https://smwspeedruns.com/images/a/a6/Sprite_A8.png",
+			"file": "images/sprites/Sprite_A8.png",
+			"width": 47,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "35"
+	},
+	{
+		"id": "A9",
+		"name": "Reznor",
+		"image": {
+			"name": "Sprite A9.png",
+			"source_url": "https://smwspeedruns.com/images/c/c0/Sprite_A9.png",
+			"file": "images/sprites/Sprite_A9.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX25)",
+		"gfx": [
+			"25"
+		],
+		"item_box_id": "36"
+	},
+	{
+		"id": "AA",
+		"name": "Fishbone",
+		"image": {
+			"name": "Sprite AA.png",
+			"source_url": "https://smwspeedruns.com/images/8/81/Sprite_AA.png",
+			"file": "images/sprites/Sprite_AA.png",
+			"width": 24,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "37"
+	},
+	{
+		"id": "AB",
+		"name": "Rex",
+		"image": {
+			"name": "Sprite AB.png",
+			"source_url": "https://smwspeedruns.com/images/8/87/Sprite_AB.png",
+			"file": "images/sprites/Sprite_AB.png",
+			"width": 19,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "38"
+	},
+	{
+		"id": "AC",
+		"name": "Wooden spike pointing down",
+		"image": {
+			"name": "Sprite AC.png",
+			"source_url": "https://smwspeedruns.com/images/3/3e/Sprite_AC.png",
+			"file": "images/sprites/Sprite_AC.png",
+			"width": 16,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "39"
+	},
+	{
+		"id": "AD",
+		"name": "Wooden spike pointing up",
+		"image": {
+			"name": "Sprite AD 2.png",
+			"source_url": "https://smwspeedruns.com/images/e/ec/Sprite_AD_2.png",
+			"file": "images/sprites/Sprite_AD_2.png",
+			"width": 16,
+			"height": 32
+		},
+		"position_extrabit": "Up/Down First (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "3A"
+	},
+	{
+		"id": "AE",
+		"name": "Fishin' Boo",
+		"image": {
+			"name": "Sprite AE.png",
+			"source_url": "https://smwspeedruns.com/images/d/d3/Sprite_AE.png",
+			"file": "images/sprites/Sprite_AE.png",
+			"width": 32,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06/11)",
+		"gfx": [
+			"06",
+			"11"
+		],
+		"item_box_id": "3B"
+	},
+	{
+		"id": "AF",
+		"name": "Boo Block",
+		"image": {
+			"name": "Sprite AF.png",
+			"source_url": "https://smwspeedruns.com/images/e/e6/Sprite_AF.png",
+			"file": "images/sprites/Sprite_AF.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "3C"
+	},
+	{
+		"id": "B0",
+		"name": "Reflecting stream of Boo Buddies",
+		"image": {
+			"name": "Sprite B0.png",
+			"source_url": "https://smwspeedruns.com/images/7/7e/Sprite_B0.png",
+			"file": "images/sprites/Sprite_B0.png",
+			"width": 40,
+			"height": 40
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "3D"
+	},
+	{
+		"id": "B1",
+		"name": "Creating/eating block",
+		"image": {
+			"name": "Sprite B1 2.png",
+			"source_url": "https://smwspeedruns.com/images/7/71/Sprite_B1_2.png",
+			"file": "images/sprites/Sprite_B1_2.png",
+			"width": 20,
+			"height": 16
+		},
+		"position_extrabit": "Creating/Eating (X&amp;1)",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "3E"
+	},
+	{
+		"id": "B2",
+		"name": "Falling spike",
+		"image": {
+			"name": "Sprite B2.png",
+			"source_url": "https://smwspeedruns.com/images/3/34/Sprite_B2.png",
+			"file": "images/sprites/Sprite_B2.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "3F"
+	},
+	{
+		"id": "B3",
+		"name": "Bowser statue fireball",
+		"image": {
+			"name": "Sprite B3.png",
+			"source_url": "https://smwspeedruns.com/images/7/7a/Sprite_B3.png",
+			"file": "images/sprites/Sprite_B3.png",
+			"width": 16,
+			"height": 8
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "40"
+	},
+	{
+		"id": "B4",
+		"name": "Grinder that moves on the ground",
+		"image": {
+			"name": "Sprite B4.png",
+			"source_url": "https://smwspeedruns.com/images/e/ed/Sprite_B4.png",
+			"file": "images/sprites/Sprite_B4.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "41"
+	},
+	{
+		"id": "B5",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite B5.png",
+			"source_url": "https://smwspeedruns.com/images/6/60/Sprite_B5.png",
+			"file": "images/sprites/Sprite_B5.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX24)",
+		"gfx": [
+			"24"
+		],
+		"item_box_id": "42"
+	},
+	{
+		"id": "B6",
+		"name": "Reflecting fireball",
+		"image": {
+			"name": "Sprite B6.png",
+			"source_url": "https://smwspeedruns.com/images/b/b7/Sprite_B6.png",
+			"file": "images/sprites/Sprite_B6.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "43"
+	},
+	{
+		"id": "B7",
+		"name": "Carrot Top Lift, upper right",
+		"image": {
+			"name": "Sprite B7.png",
+			"source_url": "https://smwspeedruns.com/images/c/ce/Sprite_B7.png",
+			"file": "images/sprites/Sprite_B7.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "44"
+	},
+	{
+		"id": "B8",
+		"name": "Carrot Top Lift, upper left",
+		"image": {
+			"name": "Sprite B8.png",
+			"source_url": "https://smwspeedruns.com/images/6/6e/Sprite_B8.png",
+			"file": "images/sprites/Sprite_B8.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "45"
+	},
+	{
+		"id": "B9",
+		"name": "Info Box",
+		"image": {
+			"name": "Sprite B9 2.png",
+			"source_url": "https://smwspeedruns.com/images/0/05/Sprite_B9_2.png",
+			"file": "images/sprites/Sprite_B9_2.png",
+			"width": 20,
+			"height": 16
+		},
+		"position_extrabit": "Message 1/Message 2 (X&amp;1)",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "46"
+	},
+	{
+		"id": "BA",
+		"name": "Timed Lift",
+		"image": {
+			"name": "Sprite BA 2.png",
+			"source_url": "https://smwspeedruns.com/images/9/9d/Sprite_BA_2.png",
+			"file": "images/sprites/Sprite_BA_2.png",
+			"width": 32,
+			"height": 16
+		},
+		"position_extrabit": "4 Seconds/1 Second (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "47"
+	},
+	{
+		"id": "BB",
+		"name": "Moving castle block",
+		"image": {
+			"name": "Sprite BB.png",
+			"source_url": "https://smwspeedruns.com/images/3/32/Sprite_BB.png",
+			"file": "images/sprites/Sprite_BB.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "48"
+	},
+	{
+		"id": "BC",
+		"name": "Bowser statue",
+		"image": {
+			"name": "Sprite BC 2.png",
+			"source_url": "https://smwspeedruns.com/images/0/0e/Sprite_BC_2.png",
+			"file": "images/sprites/Sprite_BC_2.png",
+			"width": 30,
+			"height": 24
+		},
+		"position_extrabit": "Normal/Fire/Leaping/Fire (X&amp;3)",
+		"type_gfxpage": "Tileset-specific (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "49"
+	},
+	{
+		"id": "BD",
+		"name": "Sliding Koopa",
+		"image": {
+			"name": "Sprite BD.png",
+			"source_url": "https://smwspeedruns.com/images/b/b8/Sprite_BD.png",
+			"file": "images/sprites/Sprite_BD.png",
+			"width": 16,
+			"height": 15
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "4A"
+	},
+	{
+		"id": "BE",
+		"name": "Swooper",
+		"image": {
+			"name": "Sprite BE.png",
+			"source_url": "https://smwspeedruns.com/images/2/2e/Sprite_BE.png",
+			"file": "images/sprites/Sprite_BE.png",
+			"width": 12,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX04)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "4B"
+	},
+	{
+		"id": "BF",
+		"name": "Mega Mole",
+		"image": {
+			"name": "Sprite BF.png",
+			"source_url": "https://smwspeedruns.com/images/8/8d/Sprite_BF.png",
+			"file": "images/sprites/Sprite_BF.png",
+			"width": 32,
+			"height": 31
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX20)",
+		"gfx": [
+			"20"
+		],
+		"item_box_id": "4C"
+	},
+	{
+		"id": "C0",
+		"name": "Sinking gray platform on lava",
+		"image": {
+			"name": "Sprite C0.png",
+			"source_url": "https://smwspeedruns.com/images/b/b2/Sprite_C0.png",
+			"file": "images/sprites/Sprite_C0.png",
+			"width": 48,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "4D"
+	},
+	{
+		"id": "C1",
+		"name": "Flying gray turn blocks",
+		"image": {
+			"name": "Sprite C1 2.png",
+			"source_url": "https://smwspeedruns.com/images/5/53/Sprite_C1_2.png",
+			"file": "images/sprites/Sprite_C1_2.png",
+			"width": 70,
+			"height": 26
+		},
+		"position_extrabit": "Up/Down First (X&amp;1)",
+		"type_gfxpage": "Standard (GFX00/01)",
+		"gfx": [
+			"00",
+			"01"
+		],
+		"item_box_id": "4E"
+	},
+	{
+		"id": "C2",
+		"name": "Blurp",
+		"image": {
+			"name": "Sprite C2.png",
+			"source_url": "https://smwspeedruns.com/images/9/93/Sprite_C2.png",
+			"file": "images/sprites/Sprite_C2.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "4F"
+	},
+	{
+		"id": "C3",
+		"name": "Porcu-Puffer",
+		"image": {
+			"name": "Sprite C3.png",
+			"source_url": "https://smwspeedruns.com/images/2/25/Sprite_C3.png",
+			"file": "images/sprites/Sprite_C3.png",
+			"width": 32,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "50"
+	},
+	{
+		"id": "C4",
+		"name": "Gray platform that falls",
+		"image": {
+			"name": "Sprite C4.png",
+			"source_url": "https://smwspeedruns.com/images/d/de/Sprite_C4.png",
+			"file": "images/sprites/Sprite_C4.png",
+			"width": 48,
+			"height": 11
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX12, 13)",
+		"gfx_or": [
+			"12",
+			"13"
+		],
+		"item_box_id": "51"
+	},
+	{
+		"id": "C5",
+		"name": "Big Boo Boss",
+		"image": {
+			"name": "Sprite C5.png",
+			"source_url": "https://smwspeedruns.com/images/c/c0/Sprite_C5.png",
+			"file": "images/sprites/Sprite_C5.png",
+			"width": 67,
+			"height": 64
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "52"
+	},
+	{
+		"id": "C6",
+		"name": "Spotlight/dark room sprite",
+		"image": {
+			"name": "Sprite C6.png",
+			"source_url": "https://smwspeedruns.com/images/d/d6/Sprite_C6.png",
+			"file": "images/sprites/Sprite_C6.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX0E)",
+		"gfx": [
+			"0E"
+		],
+		"item_box_id": "53"
+	},
+	{
+		"id": "C7",
+		"name": "Invisible mushroom",
+		"image": {
+			"name": "Sprite C7.png",
+			"source_url": "https://smwspeedruns.com/images/b/b3/Sprite_C7.png",
+			"file": "images/sprites/Sprite_C7.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "54"
+	},
+	{
+		"id": "C8",
+		"name": "Light switch for dark room",
+		"image": {
+			"name": "Sprite C8.png",
+			"source_url": "https://smwspeedruns.com/images/5/5d/Sprite_C8.png",
+			"file": "images/sprites/Sprite_C8.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX00)",
+		"gfx": [
+			"00"
+		],
+		"item_box_id": "55"
+	},
+	{
+		"id": "C9",
+		"name": "Bullet Bill shooter",
+		"image": {
+			"name": "Sprite C9.png",
+			"source_url": "https://smwspeedruns.com/images/5/5f/Sprite_C9.png",
+			"file": "images/sprites/Sprite_C9.png",
+			"width": 16,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "56"
+	},
+	{
+		"id": "CA",
+		"name": "Torpedo Ted launcher",
+		"image": {
+			"name": "Sprite CA.png",
+			"source_url": "https://smwspeedruns.com/images/e/e7/Sprite_CA.png",
+			"file": "images/sprites/Sprite_CA.png",
+			"width": 32,
+			"height": 26
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "57"
+	},
+	{
+		"id": "CB",
+		"name": "Eerie generator",
+		"image": {
+			"name": "Sprite CB.png",
+			"source_url": "https://smwspeedruns.com/images/2/20/Sprite_CB.png",
+			"file": "images/sprites/Sprite_CB.png",
+			"width": 16,
+			"height": 25
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX06/11)",
+		"gfx": [
+			"06",
+			"11"
+		],
+		"item_box_id": "58"
+	},
+	{
+		"id": "CC",
+		"name": "Para-Goomba generator",
+		"image": {
+			"name": "Sprite CC.png",
+			"source_url": "https://smwspeedruns.com/images/6/68/Sprite_CC.png",
+			"file": "images/sprites/Sprite_CC.png",
+			"width": 17,
+			"height": 34
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "59"
+	},
+	{
+		"id": "CD",
+		"name": "Para-Bomb generator",
+		"image": {
+			"name": "Sprite CD.png",
+			"source_url": "https://smwspeedruns.com/images/7/74/Sprite_CD.png",
+			"file": "images/sprites/Sprite_CD.png",
+			"width": 17,
+			"height": 34
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "5A"
+	},
+	{
+		"id": "CE",
+		"name": "Para-Goomba and Para-Bomb generator",
+		"image": {
+			"name": "Sprite CE.png",
+			"source_url": "https://smwspeedruns.com/images/e/ea/Sprite_CE.png",
+			"file": "images/sprites/Sprite_CE.png",
+			"width": 32,
+			"height": 34
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "5B"
+	},
+	{
+		"id": "CF",
+		"name": "Dolphin generator (left)",
+		"image": {
+			"name": "Sprite CF.png",
+			"source_url": "https://smwspeedruns.com/images/0/08/Sprite_CF.png",
+			"file": "images/sprites/Sprite_CF.png",
+			"width": 38,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "5C"
+	},
+	{
+		"id": "D0",
+		"name": "Dolphin generator (right)",
+		"image": {
+			"name": "Sprite D0.png",
+			"source_url": "https://smwspeedruns.com/images/8/8b/Sprite_D0.png",
+			"file": "images/sprites/Sprite_D0.png",
+			"width": 39,
+			"height": 23
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX06)",
+		"gfx": [
+			"06"
+		],
+		"item_box_id": "5D"
+	},
+	{
+		"id": "D1",
+		"name": "Flying fish generator",
+		"image": {
+			"name": "Sprite D1.png",
+			"source_url": "https://smwspeedruns.com/images/f/fe/Sprite_D1.png",
+			"file": "images/sprites/Sprite_D1.png",
+			"width": 16,
+			"height": 25
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX13)",
+		"gfx": [
+			"13"
+		],
+		"item_box_id": "5E"
+	},
+	{
+		"id": "D2",
+		"name": "Turn Off Generator 2",
+		"image": {
+			"name": "Sprite D2.png",
+			"source_url": "https://smwspeedruns.com/images/6/62/Sprite_D2.png",
+			"file": "images/sprites/Sprite_D2.png",
+			"width": 80,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "5F"
+	},
+	{
+		"id": "D3",
+		"name": "Super Koopa generator",
+		"image": {
+			"name": "Sprite D3.png",
+			"source_url": "https://smwspeedruns.com/images/5/52/Sprite_D3.png",
+			"file": "images/sprites/Sprite_D3.png",
+			"width": 23,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX09)",
+		"gfx": [
+			"09"
+		],
+		"item_box_id": "60"
+	},
+	{
+		"id": "D4",
+		"name": "Bubbled sprite generator",
+		"image": {
+			"name": "Sprite D4.png",
+			"source_url": "https://smwspeedruns.com/images/1/1a/Sprite_D4.png",
+			"file": "images/sprites/Sprite_D4.png",
+			"width": 62,
+			"height": 35
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX02)",
+		"gfx": [
+			"02"
+		],
+		"item_box_id": "61"
+	},
+	{
+		"id": "D5",
+		"name": "Bullet Bill generator (GFX01)",
+		"image": {
+			"name": "Sprite D5.png",
+			"source_url": "https://smwspeedruns.com/images/5/5a/Sprite_D5.png",
+			"file": "images/sprites/Sprite_D5.png",
+			"width": 24,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "62"
+	},
+	{
+		"id": "D6",
+		"name": "Multidirectional Bullet Bill generator",
+		"image": {
+			"name": "Sprite D6.png",
+			"source_url": "https://smwspeedruns.com/images/7/78/Sprite_D6.png",
+			"file": "images/sprites/Sprite_D6.png",
+			"width": 14,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "63"
+	},
+	{
+		"id": "D7",
+		"name": "Multidirectional diagonal Bullet Bill generator",
+		"image": {
+			"name": "Sprite D7.png",
+			"source_url": "https://smwspeedruns.com/images/e/e4/Sprite_D7.png",
+			"file": "images/sprites/Sprite_D7.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "64"
+	},
+	{
+		"id": "D8",
+		"name": "Bowser statue fire generator",
+		"image": {
+			"name": "Sprite D8.png",
+			"source_url": "https://smwspeedruns.com/images/7/7d/Sprite_D8.png",
+			"file": "images/sprites/Sprite_D8.png",
+			"width": 16,
+			"height": 17
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX12)",
+		"gfx": [
+			"12"
+		],
+		"item_box_id": "65"
+	},
+	{
+		"id": "D9",
+		"name": "Turn Off Generators",
+		"image": {
+			"name": "Sprite D9.png",
+			"source_url": "https://smwspeedruns.com/images/6/6a/Sprite_D9.png",
+			"file": "images/sprites/Sprite_D9.png",
+			"width": 80,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "66"
+	},
+	{
+		"id": "DA",
+		"name": "Green Koopa shell",
+		"image": {
+			"name": "Sprite DA.png",
+			"source_url": "https://smwspeedruns.com/images/b/b6/Sprite_DA.png",
+			"file": "images/sprites/Sprite_DA.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "67"
+	},
+	{
+		"id": "DB",
+		"name": "Red Koopa shell",
+		"image": {
+			"name": "Sprite DB.png",
+			"source_url": "https://smwspeedruns.com/images/7/7d/Sprite_DB.png",
+			"file": "images/sprites/Sprite_DB.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "68"
+	},
+	{
+		"id": "DC",
+		"name": "Blue Koopa shell",
+		"image": {
+			"name": "Sprite DC.png",
+			"source_url": "https://smwspeedruns.com/images/0/02/Sprite_DC.png",
+			"file": "images/sprites/Sprite_DC.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "69"
+	},
+	{
+		"id": "DD",
+		"name": "Yellow Koopa shell",
+		"image": {
+			"name": "Sprite DD.png",
+			"source_url": "https://smwspeedruns.com/images/7/70/Sprite_DD.png",
+			"file": "images/sprites/Sprite_DD.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "6A"
+	},
+	{
+		"id": "DE",
+		"name": "Group of 5 wave-moving Eeries",
+		"image": {
+			"name": "Sprite DE.png",
+			"source_url": "https://smwspeedruns.com/images/0/0d/Sprite_DE.png",
+			"file": "images/sprites/Sprite_DE.png",
+			"width": 52,
+			"height": 32
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "6B"
+	},
+	{
+		"id": "DF",
+		"name": "Green Para-Koopa shell",
+		"image": {
+			"name": "Sprite DF.png",
+			"source_url": "https://smwspeedruns.com/images/3/3f/Sprite_DF.png",
+			"file": "images/sprites/Sprite_DF.png",
+			"width": 17,
+			"height": 17
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Standard (GFX01)",
+		"gfx": [
+			"01"
+		],
+		"item_box_id": "6C"
+	},
+	{
+		"id": "E0",
+		"name": "3 rotating gray platforms",
+		"image": {
+			"name": "Sprite E0 2.png",
+			"source_url": "https://smwspeedruns.com/images/a/aa/Sprite_E0_2.png",
+			"file": "images/sprites/Sprite_E0_2.png",
+			"width": 80,
+			"height": 45
+		},
+		"position_extrabit": "Clockwise/Counter-clockwise (X&amp;1)",
+		"type_gfxpage": "Tileset-specific (GFX05)",
+		"gfx": [
+			"05"
+		],
+		"item_box_id": "6D"
+	},
+	{
+		"id": "E1",
+		"name": "Boo Ceiling",
+		"image": {
+			"name": "Sprite E1.png",
+			"source_url": "https://smwspeedruns.com/images/e/e0/Sprite_E1.png",
+			"file": "images/sprites/Sprite_E1.png",
+			"width": 16,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "6E"
+	},
+	{
+		"id": "E2",
+		"name": "Boo Ring moving counterclockwise",
+		"image": {
+			"name": "Sprite E2.png",
+			"source_url": "https://smwspeedruns.com/images/1/17/Sprite_E2.png",
+			"file": "images/sprites/Sprite_E2.png",
+			"width": 44,
+			"height": 40
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "6F"
+	},
+	{
+		"id": "E3",
+		"name": "Boo Ring moving clockwise",
+		"image": {
+			"name": "Sprite E3.png",
+			"source_url": "https://smwspeedruns.com/images/3/3e/Sprite_E3.png",
+			"file": "images/sprites/Sprite_E3.png",
+			"width": 44,
+			"height": 40
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Tileset-specific (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "70"
+	},
+	{
+		"id": "E4",
+		"name": "Swooper Death Bat Ceiling",
+		"image": {
+			"name": "Sprite E4.png",
+			"source_url": "https://smwspeedruns.com/images/7/75/Sprite_E4.png",
+			"file": "images/sprites/Sprite_E4.png",
+			"width": 13,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX04, see note)",
+		"gfx": [
+			"04"
+		],
+		"item_box_id": "71"
+	},
+	{
+		"id": "E5",
+		"name": "Appearing/disappearing Boos",
+		"image": {
+			"name": "Sprite E5.png",
+			"source_url": "https://smwspeedruns.com/images/4/48/Sprite_E5.png",
+			"file": "images/sprites/Sprite_E5.png",
+			"width": 15,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX11)",
+		"gfx": [
+			"11"
+		],
+		"item_box_id": "72"
+	},
+	{
+		"id": "E6",
+		"name": "Background candle flames",
+		"image": {
+			"name": "Sprite E6.png",
+			"source_url": "https://smwspeedruns.com/images/7/78/Sprite_E6.png",
+			"file": "images/sprites/Sprite_E6.png",
+			"width": 12,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator (GFX03)",
+		"gfx": [
+			"03"
+		],
+		"item_box_id": "73"
+	},
+	{
+		"id": "E7",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite E7.png",
+			"source_url": "https://smwspeedruns.com/images/1/1f/Sprite_E7.png",
+			"file": "images/sprites/Sprite_E7.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "74"
+	},
+	{
+		"id": "E8",
+		"name": "Special auto-scroll command",
+		"image": {
+			"name": "Sprite E8 6.png",
+			"source_url": "https://smwspeedruns.com/images/3/3e/Sprite_E8_6.png",
+			"file": "images/sprites/Sprite_E8_6.png",
+			"width": 88,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit) (Y=0..1)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "75"
+	},
+	{
+		"id": "E9",
+		"name": "Layer 2 Smash",
+		"image": {
+			"name": "Sprite E9 3.png",
+			"source_url": "https://smwspeedruns.com/images/6/69/Sprite_E9_3.png",
+			"file": "images/sprites/Sprite_E9_3.png",
+			"width": 88,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "76"
+	},
+	{
+		"id": "EA",
+		"name": "Layer 2 scrolling command",
+		"image": {
+			"name": "Sprite EA 6.png",
+			"source_url": "https://smwspeedruns.com/images/5/5e/Sprite_EA_6.png",
+			"file": "images/sprites/Sprite_EA_6.png",
+			"width": 112,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit) (Y=0..1)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "77"
+	},
+	{
+		"id": "EB",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite EB.png",
+			"source_url": "https://smwspeedruns.com/images/5/57/Sprite_EB.png",
+			"file": "images/sprites/Sprite_EB.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "78"
+	},
+	{
+		"id": "EC",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite EC.png",
+			"source_url": "https://smwspeedruns.com/images/6/6d/Sprite_EC.png",
+			"file": "images/sprites/Sprite_EC.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "79"
+	},
+	{
+		"id": "ED",
+		"name": "Layer 2 Falls",
+		"image": {
+			"name": "Sprite ED.png",
+			"source_url": "https://smwspeedruns.com/images/e/e7/Sprite_ED.png",
+			"file": "images/sprites/Sprite_ED.png",
+			"width": 56,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7A"
+	},
+	{
+		"id": "EE",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite EE.png",
+			"source_url": "https://smwspeedruns.com/images/3/3c/Sprite_EE.png",
+			"file": "images/sprites/Sprite_EE.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7B"
+	},
+	{
+		"id": "EF",
+		"name": "Layer 2 sideways-scrolling command",
+		"image": {
+			"name": "Sprite EF 2.png",
+			"source_url": "https://smwspeedruns.com/images/c/c8/Sprite_EF_2.png",
+			"file": "images/sprites/Sprite_EF_2.png",
+			"width": 112,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7C"
+	},
+	{
+		"id": "F0",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F0.png",
+			"source_url": "https://smwspeedruns.com/images/0/0b/Sprite_F0.png",
+			"file": "images/sprites/Sprite_F0.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7D"
+	},
+	{
+		"id": "F1",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F1.png",
+			"source_url": "https://smwspeedruns.com/images/7/77/Sprite_F1.png",
+			"file": "images/sprites/Sprite_F1.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7E"
+	},
+	{
+		"id": "F2",
+		"name": "Layer 2 on/off switch controller",
+		"image": {
+			"name": "Sprite F2.png",
+			"source_url": "https://smwspeedruns.com/images/1/12/Sprite_F2.png",
+			"file": "images/sprites/Sprite_F2.png",
+			"width": 104,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "7F"
+	},
+	{
+		"id": "F3",
+		"name": "Standard auto-scroll command",
+		"image": {
+			"name": "Sprite F3 4.png",
+			"source_url": "https://smwspeedruns.com/images/0/03/Sprite_F3_4.png",
+			"file": "images/sprites/Sprite_F3_4.png",
+			"width": 88,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit) (Y=0..2)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "80"
+	},
+	{
+		"id": "F4",
+		"name": "Fast background scroll",
+		"image": {
+			"name": "Sprite F4.png",
+			"source_url": "https://smwspeedruns.com/images/8/84/Sprite_F4.png",
+			"file": "images/sprites/Sprite_F4.png",
+			"width": 56,
+			"height": 16
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "81"
+	},
+	{
+		"id": "F5",
+		"name": "Layer 2 sink command",
+		"image": {
+			"name": "Sprite F5 4.png",
+			"source_url": "https://smwspeedruns.com/images/4/48/Sprite_F5_4.png",
+			"file": "images/sprites/Sprite_F5_4.png",
+			"width": 88,
+			"height": 16
+		},
+		"position_extrabit": "Type (Extra Bit)",
+		"type_gfxpage": "Special/Generator",
+		"item_box_id": "82"
+	},
+	{
+		"id": "F6",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F6.png",
+			"source_url": "https://smwspeedruns.com/images/a/aa/Sprite_F6.png",
+			"file": "images/sprites/Sprite_F6.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "83"
+	},
+	{
+		"id": "F7",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F7.png",
+			"source_url": "https://smwspeedruns.com/images/2/26/Sprite_F7.png",
+			"file": "images/sprites/Sprite_F7.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "84"
+	},
+	{
+		"id": "F8",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F8.png",
+			"source_url": "https://smwspeedruns.com/images/1/18/Sprite_F8.png",
+			"file": "images/sprites/Sprite_F8.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "85"
+	},
+	{
+		"id": "F9",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite F9.png",
+			"source_url": "https://smwspeedruns.com/images/2/28/Sprite_F9.png",
+			"file": "images/sprites/Sprite_F9.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "86"
+	},
+	{
+		"id": "FA",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FA.png",
+			"source_url": "https://smwspeedruns.com/images/8/86/Sprite_FA.png",
+			"file": "images/sprites/Sprite_FA.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "87"
+	},
+	{
+		"id": "FB",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FB.png",
+			"source_url": "https://smwspeedruns.com/images/c/c0/Sprite_FB.png",
+			"file": "images/sprites/Sprite_FB.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "88"
+	},
+	{
+		"id": "FC",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FC.png",
+			"source_url": "https://smwspeedruns.com/images/d/d7/Sprite_FC.png",
+			"file": "images/sprites/Sprite_FC.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "89"
+	},
+	{
+		"id": "FD",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FD.png",
+			"source_url": "https://smwspeedruns.com/images/0/0b/Sprite_FD.png",
+			"file": "images/sprites/Sprite_FD.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "8A"
+	},
+	{
+		"id": "FE",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FE.png",
+			"source_url": "https://smwspeedruns.com/images/0/06/Sprite_FE.png",
+			"file": "images/sprites/Sprite_FE.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "8B"
+	},
+	{
+		"id": "FF",
+		"name": "Unused",
+		"image": {
+			"name": "Sprite FF.png",
+			"source_url": "https://smwspeedruns.com/images/c/c6/Sprite_FF.png",
+			"file": "images/sprites/Sprite_FF.png",
+			"width": 16,
+			"height": 24
+		},
+		"position_extrabit": "",
+		"type_gfxpage": "N/A",
+		"item_box_id": "8C"
+	}
+]
