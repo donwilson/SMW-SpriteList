@@ -5,3 +5,5 @@ This is a tool for Lunar Magic to show what sprites are available for any select
 [![name](/images/screenshot.png)](https://donwilson.github.io/SMW-SpriteList/)
 
 [Lunar Magic Sprite Memory List](https://donwilson.github.io/SMW-SpriteList/)
+
+Feel free to submit an issue if anything appears wrong.
